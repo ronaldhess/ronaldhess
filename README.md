@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- 🔭 I’m currently going through the MicroSoft Software and Systems Academy
+- 🌱 I’m currently learning Powershell
+
+ https://military.microsoft.com/programs/microsoft-software-systems-academy/
+ 
+Link to [site name]
+
+
+
+
 <!--
 **ronaldhess/ronaldhess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
