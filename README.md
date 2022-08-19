@@ -7,7 +7,9 @@
  
 Link to [site name](https://military.microsoft.com/programs/microsoft-software-systems-academy/) 
 
+Below is my first crack at a RaspberryPi gaming system.
 
+![Project1](https://user-images.githubusercontent.com/109164244/185712757-b01d6fb3-6d59-484d-8e98-0f0356ec98e1.jpg)
 
 
 <!--
@@ -24,3 +26,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
